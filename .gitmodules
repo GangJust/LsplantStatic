@@ -1,0 +1,3 @@
+[submodule "LSPlant"]
+	path = LSPlant
+	url = https://github.com/LSPosed/LSPlant.git
